@@ -2,4 +2,4 @@
 
 My Custom DZ60 Keyboard keymap.
 
-Using Online Editor[http://qmkeyboard.cn/]
+Using [Online Editor](http://qmkeyboard.cn/)
