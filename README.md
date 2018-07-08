@@ -1,2 +1,5 @@
 # dz60-keymap
-my keymap
+
+My Custom DZ60 Keyboard keymap.
+
+Using Online Editor[http://qmkeyboard.cn/]
